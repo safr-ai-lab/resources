@@ -3,9 +3,8 @@ Communication: via the safr-ml channel on the d3 institute slack, or via email.
 For logistical questions, please contact Nina Cohodes (ncohodes@hbs.edu)
 
 #### Software: 
-Standard Libraries: numpy, scipy, pandas, pytorch 
-I use PyCharm as an IDE and our code will be stored on this github. 
-For a cluster will use the Harvard clusters - HBS/Canon. Contact Harvard IT for an overview. 
+Standard Libraries: numpy, scipy, pandas, pytorch.
+Personally I use PyCharm as an IDE. For compute we will use the Harvard clusters - HBS/Canon. Contact Harvard IT for an overview as part of onboarding. 
 
 ## Reading List
 ### privacy 
