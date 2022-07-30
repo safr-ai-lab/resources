@@ -2,6 +2,11 @@
 Communication: via the safr-ml channel on the d3 institute slack, or via email. 
 For logistical questions, please contact Nina Cohodes (ncohodes@hbs.edu)
 
+#### Software: 
+Standard Libraries: numpy, scipy, pandas, pytorch 
+I use PyCharm as an IDE and our code will be stored on this github. 
+For a cluster will use the Harvard clusters - HBS/Canon. Contact Harvard IT for an overview. 
+
 ## Reading List
 ### privacy 
 
@@ -11,6 +16,8 @@ For logistical questions, please contact Nina Cohodes (ncohodes@hbs.edu)
 
 #### selected papers: 
 - [Label only membership inference attacks](https://arxiv.org/pdf/2007.14321.pdf)
+- [Machine Unlearning](https://arxiv.org/abs/1912.03817?context=cs)
+- [Iterative Methods for Private Synthetic Data: Unifying Framework and New Methods](https://arxiv.org/abs/2106.07153)
 
 ### interpretability
 - [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/abs/2010.10596)
@@ -27,9 +34,16 @@ For logistical questions, please contact Nina Cohodes (ncohodes@hbs.edu)
 - [Preventing Fairness Gerrymandering](https://proceedings.mlr.press/v80/kearns18a.html)
 - [Calibration for the Computationally Identifiable Masses](https://proceedings.mlr.press/v80/hebert-johnson18a.html)
 
-### online learning / ML fundametals 
+### online learning / ml fundamentals 
+- [Online Algorithms in Machine Learning](https://www.cs.cmu.edu/~ninamf/ML10/online-survey.pdf)
+- [An Introduction to Computational Learning Theory]() - standard text on PAC-learning & VC-theory
+- Pattern Recognition and Machine Learning by Christopher Bishop - standard text on ML, light on deep learning
+- Tim Roughgarden [notes](https://timroughgarden.org/f13/l/l17.pdf) on no-regret algorithms
+- [UCB Algorithm](https://link.springer.com/article/10.1007/s10998-010-3055-6) - stochastic bandits
+- [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/2011/hash/e1d5be1c7f2f456670de3d53c7b54f4a-Abstract.html)
+- Probability: Theory and Examples (Durrett) - we will make frequent use of tools like the Chernoff bound or Azuma's inequality. 
 
-#### selected papers: 
+
 
 
 
