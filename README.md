@@ -8,15 +8,17 @@ Personally I use PyCharm as an IDE. For compute we will use the Harvard clusters
 
 ## Reading List
 ### privacy 
-
 - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - at least ch. 1-3, ideally ch. 4
 - Gautham Kamath's [lecture notes](http://www.gautamkamath.com/CS860-fa2020.html) on differential privacy with videos
 - [Membership Inference Attacks on Machine Learning: A Survey ](https://arxiv.org/abs/2103.07853)
 
 #### selected papers: 
+- [Creating Artificial Genomes using Neural Networks](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009303)
 - [Label only membership inference attacks](https://arxiv.org/pdf/2007.14321.pdf)
-- [Machine Unlearning](https://arxiv.org/abs/1912.03817?context=cs)
 - [Iterative Methods for Private Synthetic Data: Unifying Framework and New Methods](https://arxiv.org/abs/2106.07153)
+
+- [Machine Unlearning](https://arxiv.org/abs/1912.03817?context=cs)
+
 
 ### interpretability
 - [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/abs/2010.10596)
