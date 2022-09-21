@@ -43,6 +43,7 @@ Personally I use PyCharm as an IDE. For compute we will use the Harvard clusters
 - [UCB Algorithm](https://link.springer.com/article/10.1007/s10998-010-3055-6) - stochastic bandits
 - [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/2011/hash/e1d5be1c7f2f456670de3d53c7b54f4a-Abstract.html)
 - Probability: Theory and Examples (Durrett) - we will make frequent use of tools like the Chernoff bound or Azuma's inequality. 
+- [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) (textbook)
 
 
 
