@@ -46,11 +46,11 @@ Personally I use PyCharm as an IDE. For compute we will use the Harvard clusters
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) (textbook)
 
 Seminars and Groups to sign up for when joining the lab. Please email the relevant person and cc me when you are signing up. 
-[Boston Area DP Seminar](https://bostondataprivacy.github.io/talks.html) - wanrongzhang@fas.harvard.edu
-Privacy Tools mailing list and weekly meeting - achoate@g.harvard.edu
-OpenDP mailing list and slack - lfroess@g.harvard.edu
-Theory of Computation email list and seminar - achoate@g.harvard.edu
-[Harvard ML Theory Seminar & Slack](https://mlfoundations.org/) 
+- [Boston Area DP Seminar](https://bostondataprivacy.github.io/talks.html) - wanrongzhang@fas.harvard.edu
+- Privacy Tools mailing list and weekly meeting - achoate@g.harvard.edu
+- OpenDP mailing list and slack - lfroess@g.harvard.edu
+- Theory of Computation email list and seminar - achoate@g.harvard.edu
+- [Harvard ML Theory Seminar & Slack](https://mlfoundations.org/) 
 
 
 
