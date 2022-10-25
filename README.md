@@ -7,16 +7,19 @@ Standard Libraries: numpy, scipy, pandas, pytorch.
 Personally I use PyCharm as an IDE. For compute we will use the Harvard clusters - HBS/Canon. Contact Harvard IT for an overview as part of onboarding. 
 
 ## Reading List
-### privacy 
-- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - at least ch. 1-3, ideally ch. 4
-- Gautham Kamath's [lecture notes](http://www.gautamkamath.com/CS860-fa2020.html) on differential privacy with videos
+### membership inference 
+- [Genetic Membership Inference Attack (Homer)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000167)
 - [Membership Inference Attacks on Machine Learning: A Survey ](https://arxiv.org/abs/2103.07853)
-
-#### selected papers: 
 - [Creating Artificial Genomes using Neural Networks](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009303)
 - [Label only membership inference attacks](https://arxiv.org/pdf/2007.14321.pdf)
+
+
+### differential privacy 
+- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - at least ch. 1-3, ideally ch. 4
+- Gautham Kamath's [lecture notes](http://www.gautamkamath.com/CS860-fa2020.html) on differential privacy with videos
 - [Iterative Methods for Private Synthetic Data: Unifying Framework and New Methods](https://arxiv.org/abs/2106.07153)
 
+### Machine Unlearning 
 - [Machine Unlearning](https://arxiv.org/abs/1912.03817?context=cs)
 
 
@@ -46,6 +49,7 @@ Personally I use PyCharm as an IDE. For compute we will use the Harvard clusters
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) (textbook)
 
 Seminars and Groups to sign up for when joining the lab. Please email the relevant person and cc me when you are signing up. 
+- D^3 Slack (Lab Slack) - Email Seth
 - [Boston Area DP Seminar](https://bostondataprivacy.github.io/talks.html) - wanrongzhang@fas.harvard.edu
 - Privacy Tools mailing list and weekly meeting - achoate@g.harvard.edu
 - OpenDP mailing list and slack - lfroess@g.harvard.edu
