@@ -1,6 +1,6 @@
 ## Logistics
 Communication: via the safr-ml channel on the d3 institute slack, or via email. 
-For logistical questions, please contact Nina Cohodes (ncohodes@hbs.edu)
+For logistical questions, please contact our Lab Manager Amanda Chieco (achieco@hbs.edu)
 
 #### Software: 
 Standard Libraries: numpy, scipy, pandas, pytorch.
