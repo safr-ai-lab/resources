@@ -1,11 +1,11 @@
 ## Onboarding Logistics
 - Expectations for joining and application process [here](https://forms.gle/e5JBkZN51Adqik8s5). 
-- Communication: via the Lab Slack, weekly 1:1 meeting, biweekly lab meetings (Thursdays at 11am).
-- Project Tracking: Notion page created for each project, README on githu
+- Communication: via the [Lab Slack](safrailab.slack.com), weekly 1:1 meeting, biweekly lab meetings (Thursdays at 11am).
+- Project Tracking: Notion page created for each project, README on github. 
 - Code: All code is in project specific github repositories 
 - Compute: FASRC, submit a request to [join our lab](https://docs.rc.fas.harvard.edu/kb/how-do-i-get-a-research-computing-account/) which is under `sneel.`
-- Space: SEC 6th Floor, suite to the left of the elevators. Our Lab Manager Amanda Chieco (achieco@hbs.edu) will set you up with access. 
-- Seth's office: Morgan Hall, Room 485.
+- Space: SEC 6th Floor, suite to the left of the elevators. Our Lab Manager Amanda Chieco (achieco@hbs.edu) will set you up with key card access and a desk. 
+- Seth's contact info: Morgan Hall 485, Cell: 4016327495, Email: sethneel.ai@gmail.com.
 
 Seminars and Groups to sign up for when joining the lab. Please email the relevant person and cc me when you are signing up. 
 - [Kempner Institute Seminar](https://www.harvard.edu/kempner-institute/events/) 
