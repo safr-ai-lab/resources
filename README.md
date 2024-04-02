@@ -17,16 +17,27 @@ Seminars and Groups to sign up for when joining the lab. Please email the releva
 
 ## Reading List
 
-### General AI/ML Topics
+### general ML topics
 - [Contrastive Learning from Lillian Weng](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
 - [NTK Theory from Andrea Montanari](https://arxiv.org/abs/2308.13431)
+- Pattern Recognition and Machine Learning by Christopher Bishop - standard text on ML, light on deep learning
+- Probability: Theory and Examples (Durrett) - we will make frequent use of tools like the Chernoff bound or Azuma's inequality. 
+- [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) (textbook)
+
+### online learning + computational learning theory 
+- [An Introduction to Computational Learning Theory]() - standard text on PAC-learning & VC-theory
+- [Online Algorithms in Machine Learning](https://www.cs.cmu.edu/~ninamf/ML10/online-survey.pdf)
+- [UCB Algorithm](https://link.springer.com/article/10.1007/s10998-010-3055-6) - stochastic bandits
+- [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/2011/hash/e1d5be1c7f2f456670de3d53c7b54f4a-Abstract.html)
+- Tim Roughgarden [notes](https://timroughgarden.org/f13/l/l17.pdf) on no-regret algorithms
+
+### special topics of interest to the lab 
 
 ### membership inference 
 - [Genetic Membership Inference Attack (Homer)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000167)
 - [Membership Inference Attacks on Machine Learning: A Survey ](https://arxiv.org/abs/2103.07853)
 - [Creating Artificial Genomes using Neural Networks](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009303)
 - [Label only membership inference attacks](https://arxiv.org/pdf/2007.14321.pdf)
-
 
 ### differential privacy 
 - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - at least ch. 1-3, ideally ch. 4
@@ -51,17 +62,6 @@ Seminars and Groups to sign up for when joining the lab. Please email the releva
 #### selected papers: 
 - [Preventing Fairness Gerrymandering](https://proceedings.mlr.press/v80/kearns18a.html)
 - [Calibration for the Computationally Identifiable Masses](https://proceedings.mlr.press/v80/hebert-johnson18a.html)
-
-### online learning / ml fundamentals 
-- [Online Algorithms in Machine Learning](https://www.cs.cmu.edu/~ninamf/ML10/online-survey.pdf)
-- [An Introduction to Computational Learning Theory]() - standard text on PAC-learning & VC-theory
-- Pattern Recognition and Machine Learning by Christopher Bishop - standard text on ML, light on deep learning
-- Tim Roughgarden [notes](https://timroughgarden.org/f13/l/l17.pdf) on no-regret algorithms
-- [UCB Algorithm](https://link.springer.com/article/10.1007/s10998-010-3055-6) - stochastic bandits
-- [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/2011/hash/e1d5be1c7f2f456670de3d53c7b54f4a-Abstract.html)
-- Probability: Theory and Examples (Durrett) - we will make frequent use of tools like the Chernoff bound or Azuma's inequality. 
-- [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) (textbook)
-
 
 
 
