@@ -1,12 +1,25 @@
-## Logistics
-Communication: via the safr-ml channel on the d3 institute slack, or via email. 
-For logistical questions, please contact our Lab Manager Amanda Chieco (achieco@hbs.edu)
+## Onboarding Logistics
+Communication: via the Lab Slack, weekly 1:1 meeting, biweekly lab meetings (Thursdays at 11am).
+Project Tracking: Notion page created for each project, README on githu
+Code: All code is in project specific github repositories 
+Compute: FASRC, submit a request to [join our lab](https://docs.rc.fas.harvard.edu/kb/how-do-i-get-a-research-computing-account/) which is under `sneel.`
+Space: SEC 6th Floor, suite to the left of the elevators. Our Lab Manager Amanda Chieco (achieco@hbs.edu) will set you up with access. 
+Seth's office: Morgan Hall, Room 485.
 
-#### Software: 
-Standard Libraries: numpy, scipy, pandas, pytorch.
-Personally I use PyCharm as an IDE. For compute we will use the Harvard clusters - HBS/Canon. Contact Harvard IT for an overview as part of onboarding. 
+Seminars and Groups to sign up for when joining the lab. Please email the relevant person and cc me when you are signing up. 
+- [Kempner Institute Seminar](https://www.harvard.edu/kempner-institute/events/) 
+- [Boston Area DP Seminar](https://bostondataprivacy.github.io/talks.html) 
+- Privacy Tools mailing list and weekly meeting - achoate@g.harvard.edu
+- OpenDP mailing list and slack - lfroess@g.harvard.edu
+- Theory of Computation email list and seminar - achoate@g.harvard.edu
+- [Harvard ML Theory Seminar & Slack](https://mlfoundations.org/) 
 
 ## Reading List
+
+### General AI/ML Topics
+- [Contrastive Learning from Lillian Weng](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
+- [NTK Theory from Andrea Montanari](https://arxiv.org/abs/2308.13431)
+
 ### membership inference 
 - [Genetic Membership Inference Attack (Homer)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000167)
 - [Membership Inference Attacks on Machine Learning: A Survey ](https://arxiv.org/abs/2103.07853)
@@ -48,13 +61,7 @@ Personally I use PyCharm as an IDE. For compute we will use the Harvard clusters
 - Probability: Theory and Examples (Durrett) - we will make frequent use of tools like the Chernoff bound or Azuma's inequality. 
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) (textbook)
 
-Seminars and Groups to sign up for when joining the lab. Please email the relevant person and cc me when you are signing up. 
-- D^3 Slack (Lab Slack) - Email Seth
-- [Boston Area DP Seminar](https://bostondataprivacy.github.io/talks.html) - wanrongzhang@fas.harvard.edu
-- Privacy Tools mailing list and weekly meeting - achoate@g.harvard.edu
-- OpenDP mailing list and slack - lfroess@g.harvard.edu
-- Theory of Computation email list and seminar - achoate@g.harvard.edu
-- [Harvard ML Theory Seminar & Slack](https://mlfoundations.org/) 
+
 
 
 
