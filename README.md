@@ -20,6 +20,7 @@ Seminars and Groups to sign up for when joining the lab. Please email the releva
 ### general ML topics
 - [Contrastive Learning from Lillian Weng](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
 - [NTK Theory from Andrea Montanari](https://arxiv.org/abs/2308.13431)
+- [Log-Concave Sampling](https://chewisinho.github.io/main.pdf)
 - Pattern Recognition and Machine Learning by Christopher Bishop - standard text on ML, light on deep learning
 - Probability: Theory and Examples (Durrett) - we will make frequent use of tools like the Chernoff bound or Azuma's inequality. 
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) (textbook)
